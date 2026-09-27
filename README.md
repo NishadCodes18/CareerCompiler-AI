@@ -198,7 +198,7 @@ pytest backend/tests/test_api.py -v
 
 Crafted with dedication by **Nishad Patil**
 - **GitHub**: [@NishadCodes18](https://github.com/NishadCodes18)
-- **Project**: [CareerCompiler AI](https://github.com/NishadCodes18/CareerCompilerAi)
+- **Project**: [CareerCompiler-AI](https://github.com/NishadCodes18/CareerCompiler-Ai)
 
 ---
 
